@@ -8,5 +8,8 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/dnizam/Documents/tools/atlassian_tutorial-confluence-email-demo-d361152c4aa7/target/container/tomcat6x/apache-tomcat-6.0.20/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dnizam/Documents/tools/atlassian_tutorial-confluence-email-demo-d361152c4aa7/target/container/tomcat6x/apache-tomcat-6.0.20/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dnizam/Documents/tools/eclipse/plugins/javax.servlet_3.0.0.v201112011016.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
