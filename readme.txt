@@ -1,1 +1,1 @@
-SAP Fiori Reference Application based on Fiori Elements, demonstrating how to implement an overview pages
+SAP Fiori Reference Application based on Fiori Elements, demonstrating how to implement an overview pagess
