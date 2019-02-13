@@ -1,7 +1,7 @@
 "use strict";
 
 module.exports = function(grunt) {
-    // Variables from environment
+    // Variables from environments
     var nexusUser = process.env.NEXUS_DEPLOY_USER;
     var nexusPassword = process.env.NEXUS_DEPLOY_PASSWORD;
     var nexusSnapshotRepoURL = process.env.NEXUS_SNAPSHOT_REPO;
